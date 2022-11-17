@@ -1,4 +1,5 @@
-﻿using System;
+﻿namespace SeeSharp;
+using System;
 //using System.Windows.Forms;
 //namespace SeeSharp
 

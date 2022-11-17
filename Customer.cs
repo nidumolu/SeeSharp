@@ -3,16 +3,17 @@ namespace SeeSharp
 {
     public class Customer
     {
-        string name { get; set; }
-        int age { get; set; }
+        public string name { get; set; }
+        public int age { get; set; }
 
         
     }
 
     public class OrderItem
     {
-        string itemName { get; set; }
-        int qty { get; set; }
+        public string itemCode { get; set; }
+        public string itemName { get; set; }
+        public int qty { get; set; }
 
     }
 
